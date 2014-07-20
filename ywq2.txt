@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <html>
  <head></head>
  <body>
@@ -7,4 +6,3 @@ yes,of course!
 bye!
  </body>
 </html>
->>>>>>> 8df11c43e7f5636c0976730b77fa429fbc14b9dd
